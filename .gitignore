@@ -1,1 +1,16 @@
-plan.txt
+# === Project-specific files ===
+plan.md
+exp.py
+.env
+
+# === Standard Python ignores ===
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.envrc
+.venv
+venv*/

@@ -1,0 +1,1 @@
+# S3 - Agent removal at round 6 
